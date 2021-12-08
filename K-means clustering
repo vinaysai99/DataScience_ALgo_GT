@@ -6,3 +6,11 @@ https://stats.stackexchange.com/questions/46006/equal-euclidean-distance-of-a-si
 
 Calculating mean to a binary data does not make sense does it? It is not that you can’t use K-Means but calculating centroid ( mean) for a binary data does not make sense.
 Perhaps you can go for K-Mode and other clustering methods.
+
+https://stanford.edu/~cpiech/cs221/handouts/kmeans.html
+
+
+Visualizing K-Means Clustering : 
+
+https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+https://stanford.edu/class/engr108/visualizations/kmeans/kmeans.html
