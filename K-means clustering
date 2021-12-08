@@ -1,0 +1,8 @@
+https://analyticsindiamag.com/beginners-guide-to-k-means-clustering/#:~:text=K%2DMeans%20Algorithm,formed%20cluster%20in%20step%204
+
+Exact ties when we do a squared Euclidean distance is rare.  Even if it happens it will randomly assign.
+
+https://stats.stackexchange.com/questions/46006/equal-euclidean-distance-of-a-single-data-point-to-all-the-cluster-centers
+
+Calculating mean to a binary data does not make sense does it? It is not that you can’t use K-Means but calculating centroid ( mean) for a binary data does not make sense.
+Perhaps you can go for K-Mode and other clustering methods.
